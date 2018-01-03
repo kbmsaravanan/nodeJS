@@ -1,1 +1,7 @@
 Node is event driven, non bocking and asynchronus 
+
+Google V8 Engine
+
+  V8 compiles JavaScript directly to native machine code before executing it, instead of more 
+traditional techniques such as interpreting bytecode or compiling the whole program to machine 
+code and executing it from a filesystem.
